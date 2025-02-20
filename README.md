@@ -4,7 +4,7 @@ This project focuses on building a classification model using machine learning.
 
 ## 📂 Files
 - `Final Classification.ipynb` - Jupyter Notebook with code and analysis.
-- `dataset/` - Contains the dataset (if applicable).
+- `Syndey_rain prediction.csv/` - Contains the dataset 
 - `images/` - Visualization outputs.
 
 ## 🚀 How to Run
