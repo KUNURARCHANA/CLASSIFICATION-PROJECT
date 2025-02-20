@@ -4,11 +4,15 @@ This project focuses on building a classification model using machine learning.
 
 ## 📂 Files
 - `Final Classification.ipynb` - Jupyter Notebook with code and analysis.
-- `Syndey_rain prediction.csv/` - Contains the dataset 
-- `Box Plot for all parameters to detect outliers.png
-   Heatmap for correlation b/w parameters.png
-   decision tree classifier.png
-   XG Boost Classifier.png/` - 4  Visualization outputs.
+- `Syndey_rain prediction.csv/` - Contains the dataset
+
+- 
+## Images /- visualization output
+![XG Boost Claasifier](https://github.com/user-attachments/assets/90f92c21-1f3c-4d1d-b006-08fd2adcbabb)
+![Heatmap for correlation bw the parameters](https://github.com/user-attachments/assets/d5aac06b-ec54-400e-9aa9-35e9478aa3ad)
+![decision tree classifier](https://github.com/user-attachments/assets/b0b9a975-07e7-43dc-b6bf-7d8e7ed8dafa)
+![Box Plot for all parameters to detect outliers](https://github.com/user-attachments/assets/ee555ac8-8691-4447-b4bd-890897789b48)
+
 
 ## 🚀 How to Run
 1. Clone the repository:
