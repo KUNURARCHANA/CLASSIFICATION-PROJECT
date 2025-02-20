@@ -5,8 +5,7 @@ This project focuses on building a classification model using machine learning.
 ## 📂 Files
 - `Final Classification.ipynb` - Jupyter Notebook with code and analysis.
 - `Syndey_rain prediction.csv/` - Contains the dataset
-
-- 
+ 
 ## Images /- visualization output
 ![XG Boost Claasifier](https://github.com/user-attachments/assets/90f92c21-1f3c-4d1d-b006-08fd2adcbabb)
 ![Heatmap for correlation bw the parameters](https://github.com/user-attachments/assets/d5aac06b-ec54-400e-9aa9-35e9478aa3ad)
